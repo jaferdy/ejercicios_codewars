@@ -1,2 +1,2 @@
 # ejercicios_codewars
-Ejercicios que voy resolviendo en la plataforma de Codewars
+Ejercicios que resuelvo en la plataforma de Codewars
