@@ -1,4 +1,4 @@
-# ejercicios_codewars
+# Ejercicios Codewars
 
 Codewars es una plataforma en línea que ofrece desafíos de programación para ayudar a los desarrolladores a mejorar sus habilidades prácticas en diversos lenguajes de programación. 
 
